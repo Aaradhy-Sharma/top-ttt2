@@ -1,2 +1,2 @@
-# top-ttt2
-This repo contains the project files for the project Tic Tac Toe as a part of the JavaScript course under The Odin Project.
+# top-ttt
+This repo contains the project files for the Project Tic Tac Toe, a part of the javaScript course offered by The Odin Project
